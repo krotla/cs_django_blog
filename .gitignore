@@ -1,0 +1,23 @@
+# Virtual environment
+dj_env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Database
+*.sqlite3
+
+# Media and Static files (generated and user uploads)
+media/
+staticfiles/
+static_root/
+
+# Secrets
+.env
+local_settings.py
+
+# IDE/Editor files
+.vscode/
+.idea/
+*~
